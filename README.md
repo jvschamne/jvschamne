@@ -1,7 +1,7 @@
 ## 🖐️ Hello World!
 
-- Sou desenvolvedor front-end jr
-- Atualmente estou Estudando React e Typescript
+- Sou desenvolvedor Front-End Jr
+- Atualmente estou Estudando React Native e NodeJS
 
 <div align="center">
   <a href="https://github.com/jvschamne">
